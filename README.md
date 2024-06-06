@@ -67,6 +67,18 @@ There are several tools that can help you with managing a Policy Framework, depe
 - [IntuneManagement](https://github.com/Micke-K/IntuneManagement "IntuneManagement"): I highly recommend using the IntuneManagement tool, a tool that can help you to apply, manage, and monitor policy framework settings for Microsoft Intune. The tool is used for import, export, assignment of Policy Framework settings in bulk. The tool can export and import objects including assignments and support import/export between tenants, creating migration tables during export and use that for importing assignments in other environments. It can create missing groups in the target environment during import. 
 - PowerShell: Scripts to help you to import and export Policy Framework (GPOs) settings using PowerShell. You can use PowerShell commands to import policies settings from backup files. 
 
+### Security frameworks
+
+[Microsoft Security Baselines](https://www.microsoft.com/en-us/download/details.aspx?id=55319 "Microsoft Security Compliance Toolkit")
+
+[DoD Cyper Exchange Group Policy Objects](https://public.cyber.mil/stigs/gpo/ "Group Policy Objects - DoD Cyper Exchange")
+
+[National Cyber Security Centre (NCSC) Device Security Guidance](https://www.ncsc.gov.uk/collection/device-security-guidance/ "Device Security Guidance - NCSC.GOV.UK")
+
+[Australian Signals Directorate](https://www.asd.gov.au/ "Australian Signals Directorate")
+
+[CIS Center for Internet Security](https://www.cisecurity.org/ "CIS Center for Internet Security")
+
 ### Conclusion
 
 In conclusion, having a Policy Framework that doesn't just focus on Security Settings, but also very much include settings to ensure the Best User Experience in the Windows platform can bring many benefits to your organization, such as enhanced security, improved usability, reduced costs, and increased agility.
