@@ -96,7 +96,7 @@ By using the configuration baseline, you agree to abide by the terms and conditi
 
 ## Legal and Licensing
 
-**Windows rhythm** is licensed under the [MIT license](./blob/main/LICENSE "MIT license").
+**Windows rhythm** is licensed under the [MIT license](./LICENSE "MIT license").
 
 The information and data of this repository and its contents are subject to change at any time without notice to you. This repository and its contents are provided AS IS without warranty of any kind and should not be interpreted as an offer or commitment on the part of the author(s). The descriptions are intended as brief highlights to aid understanding, rather than as thorough coverage.
 
