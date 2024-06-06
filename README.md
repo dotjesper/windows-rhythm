@@ -74,7 +74,7 @@ To implement such a Policy Framework, you need to consider which Security Baseli
 
 ## Disclaimer
 
-This is not an official repository, and is not affiliated with Microsoft, the **Windows rhythm** repository is not affiliated with or endorsed by Microsoft. The names of actual companies and products mentioned herein may be the trademarks of their respective owners. All trademarks are the property of their respective companies.
+This is not an official repository, and is not affiliated with Microsoft, the **Windows rhythm** repository is not affiliated with, or endorsed by, Microsoft. The names of actual companies and products mentioned herein may be the trademarks of their respective owners. All trademarks are the property of their respective companies.
 
 The configuration baseline provided in this document is intended to help you optimize the performance and security of your system. However, the use of this configuration baseline is at your own risk, and you are solely responsible for any consequences that may arise from applying it to your system. You should always perform a thorough test and validation of the configuration baseline before implementing it in your production environment. You should also backup your system and data before making any changes to your configuration settings.
 
