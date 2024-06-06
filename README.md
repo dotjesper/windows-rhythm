@@ -48,7 +48,7 @@ The tree areas are all equally important, despite security measures often gettin
 
 The art of balancing Windows Security and Usability, go headfirst into the intricate dynamics of the perpetual struggle between security and the pursuit of a great end-user experience.
 
-The answer is a Policy Framework that doesn't just focus on security settings, but also very much include settings to ensure the Best User Experience.
+The answer is a Policy Framework that doesn't just focus on security settings, but also very much include settings to ensure the uest User experience.
 
 ### The Benefits of a Policy Framework
 
@@ -58,6 +58,14 @@ A Policy Framework that integrates security and usability settings can bring man
 - **Improved usability**: A Policy Framework can help you to customize and optimize your Windows platform to suit the needs and preferences of your users, increasing their productivity, satisfaction, and performance. A Policy Framework can help you to manage and update your Usability Settings, ensuring that they are consistent and compatible across your devices and applications and platforms.
 - **Reduced costs**: A Policy Framework can help you to save time and money by automating and streamlining your Windows platform configuration, management, and maintenance. A Policy Framework can also help you to avoid errors and conflicts that can cause downtime, disruptions, and rework.
 - **Increased agility**: A Policy Framework can help you to adapt and evolve your Windows platform to the changing needs and demands of your business and users, enabling you to introduce new features, functionalities, and innovations faster and easier.
+
+### Recommended tools for managing Policy Frameworks
+
+There are several tools that can help you with managing a Policy Framework, depending on your needs and preferences. Here are some of the tools that we recommend and what they can do for you: 
+
+- [Policy Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=55319 "Policy Analyzer"): The Policy Analyzer is a simple tool for examining and comparing groups of Group Policy Objects (GPOs) and is part of the [Microsoft Security Compliance Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319 "Microsoft Security Compliance Toolkit"). It can show when a group of Policies has overlapping settings or internal conflicts and can show the changes between versions or groups of Policies. It can also compare one or more GPOs with the local effective state. You can export all its results to a Microsoft Excel spreadsheet. 
+- [IntuneManagement](https://github.com/Micke-K/IntuneManagement "IntuneManagement"): I highly recommend using the IntuneManagement tool, a tool that can help you to apply, manage, and monitor policy framework settings for Microsoft Intune. The tool to import and export, including assigning Policy Framework settings in bulk. The tool can export and import objects including assignments and support import/export between tenants, creating migration tables during export and use that for importing assignments in other environments. It can create missing groups in the target environment during import. 
+- PowerShell scripts: Scripts to help you to import and export Policy Framework (GPOs) settings using PowerShell. You can use PowerShell commands to import policies settings from backup files. 
 
 ### Conclusion
 
@@ -76,7 +84,7 @@ By using the configuration baseline, you agree to abide by the terms and conditi
 
 ## Legal and Licensing
 
-**Windows rhythm** is licensed under the [MIT license](./license "MIT license").
+**Windows rhythm** is licensed under the [MIT license](./blob/main/LICENSE "MIT license").
 
 The information and data of this repository and its contents are subject to change at any time without notice to you. This repository and its contents are provided AS IS without warranty of any kind and should not be interpreted as an offer or commitment on the part of the author(s). The descriptions are intended as brief highlights to aid understanding, rather than as thorough coverage.
 
