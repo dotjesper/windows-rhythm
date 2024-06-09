@@ -59,6 +59,19 @@ A Policy Framework that integrates security and usability settings can bring man
 - **Reduced costs**: A Policy Framework can help you to save time and money by automating and streamlining your Windows platform configuration, management, and maintenance. A Policy Framework can also help you to avoid errors and conflicts that can cause downtime, disruptions, and rework.
 - **Increased agility**: A Policy Framework can help you to adapt and evolve your Windows platform to the changing needs and demands of your business and users, enabling you to introduce new features, functionalities, and innovations faster and easier.
 
+The Policy Framework is a set of rules and guidelines that help you manage and optimize your devices and applications. The policy framework policy naming has three types:
+
+- **Endpoint Security policies**: These policies help you protect your devices from threats and vulnerabilities. Endpoint Security policies are based on Microsoft Defender features, such as BitLocker, Firewall, and Antivirus. For example, the policy `C-Microsoft-Defender-BitLocker-settings` enables BitLocker encryption on your devices and configures the recovery options. 
+- **Configuration Settings policies**: These policies help you customize the user experience and functionality of your devices and applications. Configuration Settings policies are based on your preferences and needs, and can include settings for appearance, language, accessibility, and performance. For example, the policy `U-Microsoft-Office-365-Word-configuration-settings` sets the default font, page layout, and spelling options for Word. 
+- **Security Settings policies**: These policies help you enforce security best practices and compliance standards on your devices and applications. Security Settings policies are based on Microsoft Security Baselines, which are recommended configurations for Windows, Office, and other products. For example, the policy `U-Microsoft-Office-365-Word-security-settings` applies the security settings for Word, such as disabling macros and other recpomended security related settings.
+
+Splitting the policies into these three types has several benefits, such as:
+
+- **Simplifying the policy management and deployment process**. You can create, edit, and assign policies based on their type, and avoid conflicts and overlaps between policies. 
+- **Improving the policy visibility and accountability**. You can easily monitor and audit the policies based on their type and impact and identify and resolve any issues or gaps. 
+- **Enhancing the policy flexibility and scalability**. You can tailor the policies based on their type and target and adapt them to different scenarios and requirements. 
+- **Facilitating the policy troubleshooting and testing**. You can isolate and diagnose the policies based on their type and behavior and perform waved or staged rollouts to evaluate the policy outcomes. 
+
 ### Recommended tools for managing Policy Frameworks
 
 There are several tools that can help you with managing a Policy Framework, depending on your needs and preferences. Here are some of the tools that we recommend and what they can do for you: 
